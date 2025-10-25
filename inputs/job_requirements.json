@@ -1,0 +1,19 @@
+{
+    "pozisyon": "java developer",
+    "aranan_beceriler": [
+        "java",
+        "backend"
+    ],
+    "minimum_deneyim_yili": 2,
+    "egitim_seviyesi": "Lisans",
+    "sertifikalar": [
+        "java"
+    ],
+    "dil": {
+        "İngilizce": "B2"
+    },
+    "ekstra": {
+        "linkedin": true,
+        "proje_tecrubesi": true
+    }
+}

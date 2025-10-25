@@ -1,0 +1,5 @@
+fitz  # pymupdf için
+python-docx
+sentence-transformers
+scikit-learn
+numpy
